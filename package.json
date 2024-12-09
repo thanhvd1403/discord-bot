@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot",
+  "version": "0.1.0",
+  "description": "A Discord bot for playing music, and doing other fun stuffs. Made with the help from discord.js and discord-music modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/to-add-to-add.git"
+  },
+  "author": "Duc Thanh Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/to-add-to-add/issues"
+  },
+  "homepage": "https://github.com/github.com/to-add-to-add#readme",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-api-types": "^0.37.110",
+    "discord-player": "^6.7.1",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  }
+}
